@@ -1,0 +1,22 @@
+.c-tabs {
+	width: 300vw;
+	display: flex;
+	transform: translateX();
+	// overflow: hidden;
+
+	.c-tab-item {
+		width: 100vw;
+	}
+}
+
+.c-tab-1-of-3 {
+	transform: translateX(0px);
+}
+
+.c-tab-2-of-3 {
+	transform: translateX(-100vw);
+}
+
+.c-tab-3-of-3 {
+	transform: translateX(-200vw);
+}

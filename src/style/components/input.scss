@@ -1,0 +1,35 @@
+.c-input {
+	all: unset;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	width: 100%;
+	border-bottom: 1px solid $color-alpha;
+	border-radius: var(--radius);
+	background-color: #fff;
+	color: $color-alpha;
+	font-family: inherit;
+	font-size: 16px;
+	line-height: 24px;
+	padding: 11px 16px;
+	outline: none;
+	margin-left: 24px;
+}
+
+.c-input-box {
+	all: unset;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	width: 100%;
+	border: 1px solid gray;
+	border-radius: var(--radius);
+	background-color: #fff;
+	color: $color-alpha;
+	font-family: inherit;
+	font-size: 16px;
+	line-height: 24px;
+	padding: 11px 16px;
+	outline: none;
+	margin-left: 24px;
+}

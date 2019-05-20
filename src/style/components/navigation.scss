@@ -1,0 +1,24 @@
+.c-nav {
+	all: unset;
+	display: flex;
+	flex-direction: row;
+	list-style-type: none;
+
+	.c-nav--item {
+		color: $color-beta;
+		padding-right: 16px;
+		padding-bottom: 8px;
+		border-bottom: 1px solid $color-beta;
+		cursor: pointer;
+
+		// &:first-child {
+		// 	color: $color-accent;
+		// 	border-bottom: 1px solid $color-accent;
+		// }
+	}
+
+	.js-selected {
+		color: $color-accent;
+		border-bottom: 1px solid $color-accent;
+	}
+}

@@ -1,0 +1,66 @@
+.c-accent-blue {
+	.c-nav {
+		.js-selected {
+			color: #004e91;
+			border-bottom: 1px solid #004e91;
+		}
+	}
+
+	.c-button {
+		background-color: #004e91;
+	}
+}
+
+.c-accent-red {
+	.c-nav {
+		.js-selected {
+			color: #c03d08;
+			border-bottom: 1px solid #c03d08;
+		}
+	}
+
+	.c-button {
+		background-color: #c03d08;
+	}
+}
+
+.c-accent-yellow {
+	.c-nav {
+		.js-selected {
+			color: #fcb800;
+			border-bottom: 1px solid #fcb800;
+		}
+	}
+
+	.c-button {
+		background-color: #fcb800;
+	}
+}
+
+.c-accent-white {
+	.c-nav {
+		.js-selected {
+			color: white;
+			border-bottom: 1px solid white;
+		}
+	}
+
+	.c-button {
+		background-color: white;
+		color: black;
+	}
+}
+
+.c-accent-grey {
+	.c-nav {
+		.js-selected {
+			color: #dfdfdf;
+			border-bottom: 1px solid #dfdfdf;
+		}
+	}
+
+	.c-button {
+		background-color: #dfdfdf;
+		color: black;
+	}
+}

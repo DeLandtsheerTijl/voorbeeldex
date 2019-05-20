@@ -1,0 +1,36 @@
+.c-title {
+	font-family: $font-stack;
+	font-size: 30px;
+	margin-bottom: 0;
+	color: $color-alpha;
+	font-weight: 600;
+}
+
+.c-subtitle {
+	font-family: $font-stack;
+	font-size: 18px;
+	font-weight: 200;
+	color: $color-beta;
+}
+
+.o-layout__item .c-subtitle {
+	font-size: 12px;
+}
+
+.o-layout__item .c-title {
+	font-size: 24px;
+}
+
+.c-cards .c-subtitle {
+	color: $color-charlie;
+}
+
+// .c-subtitle-sm {
+// 	font-family: $font-stack;
+// 	font-size: 14px;
+// 	text-align: center;
+// 	color: $color-alpha;
+// 	font-weight: 700;
+// 	margin-top: 6px;
+// 	margin-bottom: 24px;
+// }
